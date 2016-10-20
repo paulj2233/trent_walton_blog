@@ -13,10 +13,10 @@
 	<img src="logo_TrentWalton.png" class="logo">
 
 	<div class="page">
-		<a href= "..." class="page__articles">ARTICLES</a>
-		<a href= "..." class="page__notes">NOTES </a>
-		<a href= "..." class="page__info">INFO </a>
-		<a href= "..." class="page__search">SEARCH </a>
+		<a href= "..." class="page__link">ARTICLES</a>
+		<a href= "..." class="page__link">NOTES </a>
+		<a href= "..." class="page__link">INFO </a>
+		<a href= "..." class="page__link">SEARCH </a>
 	</div>
 
 </div>
@@ -70,13 +70,11 @@
 		<div class="project__description">I was thrilled that <a href="...">Typekit</a> and <a href="...">Dave Shea</a> asked me to contribute a them to <a href="...">CSS Zen Garden</a> to celebrate its recent responsive update.  Read about the process <a href="...">here</a> and <a href="...">here</a>.</div>
 	</div>
 
-	</div class="more">
+	<div class="more">
 		<p> More:<a href="..." class="more__info">Info</a>,
 		<a href="..." class="more__info">Articles</a>, or
 		<a href="..." class="more__info">Notes</a>
 	</div>
-
-
 </div>
 
 <div class="footer">

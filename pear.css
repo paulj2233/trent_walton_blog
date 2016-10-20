@@ -26,19 +26,16 @@
 
 .bio {
 	font-weight: normal;
-	font-size: 30px;
+	font-size: 60px;
 	margin-bottom: 	15px;
 }
 
 
 .main{
-	display: flex;
-	flex-direction: column;
-	text-align: left;
-	width: 62%;
+	width: 65%;
 	margin: 0 auto;
 	font-family: "leitura-news", serif;
-	font-size: 19px;
+	font-size: 25px;
 }
 
 .articlehead {
@@ -89,22 +86,7 @@
 }
 
 
-.page__articles{
-	padding: 20px 20px 20px 20px;
-	color: black;
-}
-
-.page__notes{
-	padding: 20px 20px 20px 20px;
-	color: black;
-}
-
-.page__info{
-	padding: 20px 20px 20px 20px;
-	color: black;
-}
-
-.page__search{
+.page__link {
 	padding: 20px 20px 20px 20px;
 	color: black;
 }
@@ -132,16 +114,15 @@ a {
 	border-top-style: solid;
 	border-top-width: 1px;
 	border-top-color: lightgray;
-	padding-bottom: 15px;
-	padding-top: 15px;
+	padding: 30px 0px;
 	text-align: left;
     display: flex;
     justify-content: flex-start;
+    align-items: center;
 }
 
 .project__logo{
-	height: 200px;
-    width: 50%;
+    width: 350px;
 
 }
 
@@ -149,10 +130,11 @@ a {
 	margin-bottom: 30px;
 	margin-top: 30px;
 	padding-left: 30px;
-	font-size: 15px;
 }
 
-
+.more {
+	border-top: 1px solid lightgray;
+}
 
 .input {
 	margin: 2px 2px 2px 2px;
