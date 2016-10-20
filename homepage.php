@@ -27,11 +27,11 @@
 	</h3>
 
 	<div class="links">
-		<a href="https://twitter.com/TrentWalton">Twitter /</a> 
-	 	<a href="https://dribble.com/TrentWalton">Dribble /</a>
-		<a href="https://codepen.io.com/TrentWalton">Codepen /</a> 
-	  	<a href="https://github.com/TrentWalton">GitHub /</a>
-	  	<a href="https://letterboxd.com/TrentWalton">Letterboxd /</a>
+		<a href="https://twitter.com/TrentWalton">Twitter </a> /
+	 	<a href="https://dribble.com/TrentWalton">Dribble </a> /
+		<a href="https://codepen.io.com/TrentWalton">Codepen </a> /
+	  	<a href="https://github.com/TrentWalton">GitHub </a> /
+	  	<a href="https://letterboxd.com/TrentWalton">Letterboxd</a> /
 	  	<a href="https://godaytrip.com/u/TrentWalton">DayTrip</a>
 	</div>
 
