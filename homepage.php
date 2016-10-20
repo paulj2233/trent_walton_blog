@@ -10,7 +10,7 @@
 
 <div class="header">
 
-	<img src="logo_TrentWalton.png" class="logo">
+	<img src="TrentWalton2.jpg" class="logo">
 
 	<div class="page">
 		<a href= "..." class="page__link">ARTICLES</a>
