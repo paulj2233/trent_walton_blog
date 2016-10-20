@@ -37,35 +37,35 @@
 
 	<div class="project">
 
-		<img src="codingProject.pnf" class="project__logo">
+		<img src="http://pcdn.paravel.netdna-cdn.com/wp-content/uploads/2015/08/daytrip.jpg" class="project__logo">
 
-		<div class="project__description">Near and dear to our hearts, <a href="..." class="project">DayTrip</a> is a Paravel project designed to make it easy to find something great to do and someplace great to go.  Austin/Texas area private beta out now.</div>
+		<div class="project__description">Near and dear to our hearts, <a href="...">DayTrip</a> is a Paravel project designed to make it easy to find something great to do and someplace great to go.  Austin/Texas area private beta out now.</div>
 	</div>
 
 	<div class="project">
 
-		<img src="codingProject.pnf" class="project__logo">
+		<img src="http://pcdn.paravel.netdna-cdn.com/wp-content/uploads/2016/03/tmfo-pd.jpg" class="project__logo">
 
 		<div class="project__description">We recently published two new <a href="...">TMFO</a> posts.  One for <a href="...">Burt Reynolds</a>, and another one called <a href="...">Punch Dancing</a>.</div>
 	</div>
 
 	<div class="project">
 
-		<img src="codingProject.pnf" class="project__logo">
+		<img src="http://pcdn.paravel.netdna-cdn.com/wp-content/uploads/2015/08/paravel.jpg" class="project__logo">
 
 		<div class="project__description">We recently updated <a href="...">paravelinc.com</a> with some new portfolio items, talks, podcasts, interviews, and a brand new home page graphic from <a href="...">Curtis Jinkins</a>.</div>
 	</div>
 
 	<div class="project">
 
-		<img src="codingProject.pnf" class="project__logo">
+		<img src="http://pcdn.paravel.netdna-cdn.com/wp-content/uploads/2015/08/device-agnostic.jpg" class="project__logo">
 
 		<div class="project__description"><a href="...">Device Agnostic</a> summarizes how I view and approach building for the web.  My perception has been shaped while working on responsive, component-based systems on a large-ish scale.</div>
 	</div>
 
 	<div class="project">
 
-		<img src="codingProject.pnf" class="project__logo">
+		<img src="http://pcdn.paravel.netdna-cdn.com/wp-content/uploads/2015/08/zen-garden.jpg" class="project__logo">
 
 		<div class="project__description">I was thrilled that <a href="...">Typekit</a> and <a href="...">Dave Shea</a> asked me to contribute a them to <a href="...">CSS Zen Garden</a> to celebrate its recent responsive update.  Read about the process <a href="...">here</a> and <a href="...">here</a>.</div>
 	</div>
@@ -82,9 +82,11 @@
 <div class="footer">
 
 	<div class="bottom">
-		<a href= "..." > <img src="..." class="bottom__twitter">FOLLOW ME ON TWITTER</a>
-		<a href= "..." ><img src="..." class="bottom__hire"> HIRE PARAVEL</a>
-		<a href="..."><img src=".." class="bottom__rss"> RSS FEED</a>
+		 <a href= "..." > <img src="..." class="bottom__twitter">FOLLOW ME ON TWITTER</a>
+	   <div class="bottomright">
+		 <a href= "..." ><img src="..." class="bottom__hire"> HIRE PARAVEL</a>
+		 <a href="..."><img src=".." class="bottom__rss"> RSS FEED</a>
+	  </div>
 
 	</div>
 

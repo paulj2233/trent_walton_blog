@@ -1,94 +1,112 @@
+
+
+
+
 .page {
 	display: flex;
 	justify-content: flex-end;
+	font-size: 14px;
+	font-color: black;
+
+}
+
+.links{
+	margin-bottom: 30px;
+}
+
+.header{
+	margin-bottom: 50px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-weight: bold;
+	font-family: "nimbus-sans", sans-serif;
 }
 
 .bio {
 	font-weight: normal;
 	font-size: 30px;
+	margin-bottom: 	15px;
 }
 
-.project__logo{
-	height: 200px;
-    width: 100%;
-}
 
 .main{
 	display: flex;
 	flex-direction: column;
-	align-items: center;
-	width: 400px;
 	text-align: left;
+	width: 62%;
 	margin: 0 auto;
+	font-family: "leitura-news", serif;
+	font-size: 19px;
 }
-
-.articlehead__date {
-	color: gainsboro;
-	display: : flex;
-	flex-direction: row;
-	align-items: : center;
-
-}
-
-.articlehead__responses {
-	color: gainsboro;
-	display: flex;
-	flex-direction: row;
-	align-items: : center;
-
-}
-
-
 
 .articlehead {
 	display: flex;
 	align-items:  center;
-	flex-direction: column;
+	
 	justify-content: flex-start;
 }
 
 .articlebody {
-	display: flex;
-	align-items: center;
-	flex-direction: column;
+	line-height: 30px;
+	font-size: 18px;
+	margin-bottom: 30px;
+	font-family: "leitura-news", serif;
 }
 
+
+.articlepic {
+	display: flex;
+	align-items: stretch;
+	margin-right: 10px;	
+
+}
+
+
+	
+
+.articlehead__dateresponse {
+	color: gainsboro;
+	display:  flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+}
+	
 
 .bottom {
 	display: flex;
 	flex-direction: row;
+	justify-content: space-between;
+	font-weight: 	800
+	font-size: 12px;
 }
 
-.bottom__twitter {
-	display: flex;
-	justify-content: flex-start;
-	align-items: baseline;
+.bottomright {
+	
+	
 }
 
-.bottom__hire {
-	display: flex;
-	justify-content: flex-end;
-}
-
-.bottom__rss {
-	display: flex;
-	justify-content: flex-end;	
-}
 
 .page__articles{
 	padding: 20px 20px 20px 20px;
+	color: black;
 }
 
 .page__notes{
 	padding: 20px 20px 20px 20px;
+	color: black;
 }
 
 .page__info{
 	padding: 20px 20px 20px 20px;
+	color: black;
 }
 
 .page__search{
 	padding: 20px 20px 20px 20px;
+	color: black;
 }
 
 .logo{
@@ -97,3 +115,77 @@
 	width: 50px;
 }
 
+.articlehead__title {
+	display: flex;
+	flex-wrap: wrap;
+	font-size: 35px;
+	color: black;
+	font-weight: normal;
+
+}
+
+a {
+	color: red;
+}
+
+.project{
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: lightgray;
+	padding-bottom: 15px;
+	padding-top: 15px;
+	text-align: left;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.project__logo{
+	height: 200px;
+    width: 50%;
+
+}
+
+.project__description{
+	margin-bottom: 30px;
+	margin-top: 30px;
+	padding-left: 30px;
+	font-size: 15px;
+}
+
+
+
+.input {
+	margin: 2px 2px 2px 2px;
+	height: 25px;
+	width: 150px;
+}
+
+.textarea {
+	height:150px;
+	width: 300px;
+	margin-top: : 2px;
+	margin-bottom: 8px;
+}
+
+.button {
+	height: 35px;
+	width: 70px;
+}
+		
+
+.article__description{
+	line-height: 30px;
+	margin-bottom: 30px;
+	font-weight: normal;
+}
+
+.h3{
+	font-size: 30px;
+	font-weight: normal;
+	line-height: 35px;
+	margin-bottom: 7px;
+}
+
+.comment{
+	margin-bottom: 60px;
+}
