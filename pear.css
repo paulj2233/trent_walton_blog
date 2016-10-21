@@ -44,14 +44,16 @@
 .articlehead {
 	display: flex;
 	align-items:  center;
-	
 	justify-content: flex-start;
+	margin-left: 90px;
 }
 
 .articlebody {
 	line-height: 30px;
 	font-size: 18px;
-	margin-bottom: 30px;
+	margin-bottom: 80px;
+	margin-left: 90px;
+	margin-right: 90px;
 	font-family: "leitura-news", serif;
 }
 
@@ -63,8 +65,6 @@
 
 }
 
-
-	
 
 .articlehead__dateresponse {
 	color: gainsboro;
@@ -171,4 +171,10 @@ a {
 
 .comment{
 	margin-bottom: 60px;
+}
+
+.oldpost {
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 80px;
 }
