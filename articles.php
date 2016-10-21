@@ -9,13 +9,13 @@
 
 <div class="header">
 
-	<img src="logo_TrentWalton.png" class="logo">
+	<img src="TrentWalton2.jpg" class="logo">
 
 		<div class="page">
-			<a href="..." class="page__articles">ARTICLES</a>
-			<a href="..." class="page__notes">NOTES</a>
-			<a href="..." class="page__info">INFO</a>
-			<a href="..." class="page__search">SEARCH</a>
+			<a href="..." class="page__link">ARTICLES</a>
+			<a href="..." class="page__link">NOTES</a>
+			<a href="..." class="page__link">INFO</a>
+			<a href="..." class="page__link">SEARCH</a>
 		</div>
 
 </div>
