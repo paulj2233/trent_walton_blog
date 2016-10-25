@@ -1,3 +1,14 @@
+<?php
+
+	$currentPage = "hulk";
+
+	function isCurrentPage ($pageName, $currentPage)  {
+		if ($pageName == $currentPage)  {
+		echo "page__link--current";
+		}
+	}
+	?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,7 +25,7 @@
 	
 		<div class="page">
 			<a href="..." class="page__link">ARTICLES</a>
-			<a href="..." class="page__link">NOTES</a>
+			<a href="..." class="page__link--current">NOTES</a>
 			<a href="..." class="page__link">INFO</a>
 			<a href="..." class="page__link">SEARCH</a>
 		</div>
